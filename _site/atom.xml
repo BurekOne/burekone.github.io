@@ -2,9 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
  <title>Burek</title>
- <link href="http://localhost:4000https://burekone.github.io//atom.xml" rel="self"/>
- <link href="http://localhost:4000https://burekone.github.io//"/>
- <updated>2023-11-23T11:50:16+01:00</updated>
+ <link href="http://localhost:4000/atom.xml" rel="self"/>
+ <link href="http://localhost:4000/"/>
+ <updated>2023-11-25T18:51:38+01:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name></name>
@@ -13,11 +13,26 @@
 
  
  <entry>
+   <title>Current gaming setup on ThinkPad x230!</title>
+   <link href="http://localhost:4000/2023/11/25/current-gaming-setup-on-thinkpad-x230"/>
+   <updated>2023-11-25T00:00:00+01:00</updated>
+   <id>http://localhost:4000/2023/11/25/current-gaming-setup-on-thinkpad-x230</id>
+   <content type="html">&lt;p&gt;Hello! I have this old laptop, ThinkPad x230, that i use almost daily, but it started showing its age due to low specs and modern technology. I’ve been running Linux on it exclusively since i’ve got it few years ago. It used to be able to run my favourite desktop environment, KDE Plasma, but Plasma became somewhat bloated in the meanwhile and x230 is struggling running it on 4Gb of RAM with Firefox/YouTube open. I do all sorts of things on it, but i wanted to do some light gaming as well. Terminal based games work exceptionally well since they don’t use a lot of resources, but anything with &lt;em&gt;proper-ish&lt;/em&gt; graphics and it starts choking. So, two things happened lately and joined forces somehow, me starting to appreciate simpler things and retro gaming. You can see where i’m going with this. The first two important factors in all of this is finding moderately minimal distro that has proper package count size in its repository, and functional/robust, but still low on resources desktop environment. After trying loads of distros and DE’s, i landed on Artix Mate with OpenRC init. Which was my distro of choice back in 2019. In order to play retro games, we need some sort of emulator, for X or Y console. My console of choice was PlayStation 1, since i grew up playing it in the early 00’s. While being back and forth with emulators, testing what was working properly and what was not, DuckStation proved to be perfect for my needs, but! It wasn’t detecting my generic, off-brand controller. Some browsing and reading later, what i needed was QJoyPad, and thankfully it was already in the AUR. It detected my controller and passed it to DuckStation. So, now i have working PlayStation 1 emulator on my little ThinkPad laptop, and i can enjoy some nostalgia/childhood fueled gaming with proper graphics.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://raw.githubusercontent.com/BurekOne/blog-images/main/Current%20gaming%20setup%20on%20ThinkPad%20x230/Screenshot%20at%202023-11-25%2013-14-23.png&quot; alt=&quot;DuckStation&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://raw.githubusercontent.com/BurekOne/blog-images/main/Current%20gaming%20setup%20on%20ThinkPad%20x230/Screenshot%20at%202023-11-25%2013-13-40.png&quot; alt=&quot;Tony Hawk&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://raw.githubusercontent.com/BurekOne/blog-images/main/Current%20gaming%20setup%20on%20ThinkPad%20x230/Screenshot%20at%202023-11-25%2013-50-21.png&quot; alt=&quot;Metal Slug X&quot; /&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
    <title>Hello!</title>
-   <link href="http://localhost:4000https://burekone.github.io//2023/11/23/my-first-post"/>
+   <link href="http://localhost:4000/2023/11/23/my-first-post"/>
    <updated>2023-11-23T00:00:00+01:00</updated>
    <id>http://localhost:4000/2023/11/23/my-first-post</id>
-   <content type="html">&lt;p&gt;Hello! On internet, I’m known as Burek, or BurekOne. My interests are Linux(I do also use Windows), electricity, indie culture, music, tinkering with software, and one day with hardware too, as well as electronics. This is my &lt;em&gt;nth&lt;/em&gt; time trying to making a blog. I was probably way too lazy to maintain it in the past, sometimes I didn’t have anything to write about, so I kinda abandoned the thought. Hopefully that will change since I’m being interested in a few new things, so I might as well keep “journal” about those things, and maybe reflect upon them in the future. I’m just an everyday Joe, hailing from Europe. Blog made with Jekyll with some slight modifications by myself. Thanks for reading!&lt;/p&gt;
+   <content type="html">&lt;p&gt;Hello! On internet, I’m known as Burek, or BurekOne. I’m just an everyday Joe, hailing from Europe. My interests are Linux(I do also use Windows), electricity, indie culture, music, video games, tinkering with software, and one day with hardware too, as well as electronics. This is my &lt;em&gt;nth&lt;/em&gt; time trying to making a blog. I was probably way too lazy to maintain it in the past, sometimes I didn’t have anything to write about, so I kinda abandoned the thought. Hopefully that will change since I’m being interested in a few new things, so I might as well keep “journal” about those things, and maybe reflect upon them in the future. Blog made with Jekyll with some slight modifications by myself. Thanks for reading!&lt;/p&gt;
 </content>
  </entry>
  

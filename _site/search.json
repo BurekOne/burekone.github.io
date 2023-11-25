@@ -2,9 +2,20 @@
   
     {
 
+      "title"    : "Current gaming setup on ThinkPad x230!",
+      "description" : "Gaming on ThinkPad x230.",
+      "url"      : "/2023/11/25/current-gaming-setup-on-thinkpad-x230",
+      "category" : "",
+      "tags"     : "linux, gaming, thinkpad",
+      "date"     : "2023-11-25 00:00:00 +0100"
+
+    } ,
+  
+    {
+
       "title"    : "Hello!",
       "description" : "My first post.",
-      "url"      : "https://burekone.github.io//2023/11/23/my-first-post",
+      "url"      : "/2023/11/23/my-first-post",
       "category" : "",
       "tags"     : "",
       "date"     : "2023-11-23 00:00:00 +0100"

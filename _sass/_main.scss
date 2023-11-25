@@ -1,6 +1,6 @@
 *,:after,:before {
 	box-sizing:border-box;
-	background-color:inherit;
+	background-color: #E0C097;
 	color:inherit;
 	margin:0;
 	padding:0;
@@ -12,11 +12,13 @@ body {
     text-rendering: optimizeLegibility;
 	line-height:1.5;
 	font-size: 1rem;
+	
 	color: rgb(22, 23, 26);
+	
 }
 
 nav ul {
-    border-right: 1px solid #edf2f7;
+    border-right: 1px solid #000000;
 }
 
 a {
@@ -28,6 +30,7 @@ a {
 pre {
 	margin: .5rem 0;
 	padding: .5rem;
+	
 }
 
 .post p {
@@ -48,6 +51,7 @@ pre {
 
 code,pre {
 	background: rgb(236, 237, 238);
+	background-color: #E0C097;
 }
 
 code {
