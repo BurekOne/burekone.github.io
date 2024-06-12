@@ -1,12 +1,12 @@
-#site: Burek
+site: Burek
 url: https://burekone.github.io/
-title: Burek
-description: Hello.
+title:
+description: Hello!
 twitter:
   username: #yourusername
   card: summary
   creator: #yourusername
-author:
+author: Burek
   twitter: #yourusername
   name: #yourusername
   avatar:
